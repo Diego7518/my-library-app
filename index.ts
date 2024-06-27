@@ -14,7 +14,7 @@ const libro3 = new libro ("Don Quijote de la Mancha","Miguel de Cervantes Saaved
 librerias.addLibro(libro1)
 librerias.addLibro(libro2)
 librerias.addLibro(libro3)
-librerias.flitrarLibro("pricipitos")
+librerias.flitrarLibro("principito")
 librerias.removelibro()
 librerias.ordenarLibros()
 

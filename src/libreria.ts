@@ -77,7 +77,4 @@ listarlibros( ):void{
 console.log("mostrar  libros");
 console.table(listar);
 }
-
-
-
 }
